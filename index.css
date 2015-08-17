@@ -38,8 +38,9 @@ body {
   color: #FAA500;
 }
 
-.section {
+.sections {
   background-color: #f7f7f7;
+  text-align: center;
 }
 
 .section h3 {
