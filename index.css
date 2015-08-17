@@ -42,6 +42,7 @@ body {
 .sections {
   background-color: #f7f7f7;
   text-align: center;
+  font-size: 14px;
 }
 
 .section h3 {
