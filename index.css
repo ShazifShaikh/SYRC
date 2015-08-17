@@ -42,16 +42,7 @@ body {
 .sections {
   background-color: #f7f7f7;
   text-align: center;
-}
-
-.sections .container-fluid {
   font-size: 14px;
-}
-
-.section h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
 }
 
 .section a {
