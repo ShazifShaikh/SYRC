@@ -1,3 +1,7 @@
+body {
+    background-color: orange;
+}
+
 .nav a {
   color: #5a5a5a;
   font-size: 20px;
