@@ -24,6 +24,7 @@ body {
 
 .title .container {
   position: relative;
+  text-align: center;
 }
 
 .title h1 {
